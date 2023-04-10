@@ -1,4 +1,4 @@
-# i_am_poor
+# Dimond_Image
 
 A new Flutter application.
 
